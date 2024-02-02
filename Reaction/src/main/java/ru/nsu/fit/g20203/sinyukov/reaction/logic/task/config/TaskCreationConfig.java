@@ -1,5 +1,6 @@
 package ru.nsu.fit.g20203.sinyukov.reaction.logic.task.config;
 
+// TODO maybe delete
 public class TaskCreationConfig {
 
     public static final long ATTEMPTS_UNLIMITED = -1;
